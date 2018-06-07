@@ -1,0 +1,1 @@
+from primes_base import is_prime
